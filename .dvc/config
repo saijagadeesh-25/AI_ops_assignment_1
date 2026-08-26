@@ -1,0 +1,4 @@
+[core]
+    remote = ssh_remote
+['remote "ssh_remote"']
+    url = ssh://dvcuser@192.168.56.1/C:/dvc_storage
