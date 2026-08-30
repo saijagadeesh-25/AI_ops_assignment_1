@@ -25,10 +25,19 @@
 | **Q1** | `AI_ops_assignment_1.pdf` |
 | **Q2** | `Question-2/AI_ops_assi-1_q2.jpeg`, `Question-2/AI_ops_assignment-1_q2.ipynb`, PDF(contain report) |
 | **Q3** | `Question-3/q3_rollback_v1.png`, `filenames.csv.dvc`, `.dvc/`, `.dvcignore`, PDF |
-| **Q4** | Separate partner repository |
+| **Q4** | https://github.com/MohdAseel/DA3408_collab_1.git |
 
 
+# Question 4 — End-to-End Reproducibility Drill
 
+Question 4 was completed as a partner-based activity.
+
+The Question 4 work is maintained in a separate GitHub repository:
+
+**Question 4 Repository:**  
+https://github.com/MohdAseel/DA3408_collab_1.git
+
+The repository contains the work related to the end-to-end reproducibility experiment, including the Partner A and Partner B workflow.
 ## AI Assistance Disclosure
 
 AI tools were used during this assignment to help with:
