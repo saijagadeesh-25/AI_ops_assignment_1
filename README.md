@@ -29,3 +29,16 @@
 
 
 
+## AI Assistance Disclosure
+
+AI tools were used during this assignment to help with:
+
+- Understanding the assignment requirements
+- Understanding  MLflow and DVC concepts
+- Debugging and troubleshooting errors
+- Understanding terminal commands
+- Getting help with code structure
+- Reviewing outputs and results
+- Organising the project and README documentation
+
+The experiments, commands, and results were run and verified by me. I reviewed the generated suggestions and made sure I understood the work before submitting it.
