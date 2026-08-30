@@ -24,4 +24,5 @@
 | **Q3** | `Question-3/q3_rollback_v1.png`, `filenames.csv.dvc`, `.dvc/`, `.dvcignore`, PDF |
 | **Q4** | Separate partner repository |
 
-This matches the files you actually have in the GitHub repository, without incorrectly moving or duplicating the DVC files.
+
+
