@@ -23,7 +23,7 @@
 | Question | Related files |
 |---|---|
 | **Q1** | `AI_ops_assignment_1.pdf` |
-| **Q2** | `Question-2/AI_ops_assi-1_q2.jpeg`, `Question-2/AI_ops_assignment-1_q2.ipynb`, PDF |
+| **Q2** | `Question-2/AI_ops_assi-1_q2.jpeg`, `Question-2/AI_ops_assignment-1_q2.ipynb`, PDF(contain report) |
 | **Q3** | `Question-3/q3_rollback_v1.png`, `filenames.csv.dvc`, `.dvc/`, `.dvcignore`, PDF |
 | **Q4** | Separate partner repository |
 
