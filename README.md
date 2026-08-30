@@ -1,3 +1,6 @@
+## Repository Structure
+
+```text
 .
 ├── Question-2/
 │   ├── AI_ops_assi-1_q2.jpeg
@@ -14,7 +17,7 @@
 ├── .gitignore
 ├── AI_ops_assignment_1.pdf
 └── filenames.csv.dvc
-
+```
 
 
 | Question | Related files |
